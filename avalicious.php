@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Avalicious!
-Plugin URI: http://wordpress.org/plugins/avalicious/
+Plugin URI: https://github.com/alisinfinite/avalicious
 Description: A plugin for integrating Dreamwidth, LiveJournal, and Tumblr icons into WordPress comments. Based on <a href="http://alltrees.org/Wordpress/#ALA">Also LJ Avatar</a>.
 Version: 1.3.3
 Author: Alis
